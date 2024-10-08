@@ -36,7 +36,8 @@ export 'src/ecommerce.dart'
         AppMetricaECommerce;
 export 'src/ecommerce_event.dart'
     show
-        AppMetricaECommerceEvent;
+        AppMetricaECommerceEvent,
+        ECommerceConstructors;
 export 'src/error_description.dart'
     show
         AppMetricaErrorDescription;
